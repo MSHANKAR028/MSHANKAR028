@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @MSHANKAR028
+- 👋 Hi, everyone, my name is Mahima Shankar 
 - 👀 I’m interested in
-- Writing simple C++ programs and Java programs.
+- Writing stories and programming in my spare time. 
 - 🌱 I’m currently learning
-- More depth in C++ and Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Website development and growing my skills to become a better Software engineer.
+- 📫 How to reach me
+- My phone number: 925-260-9218
+Or my email: mahimashankar18@gmail.com
+
 
 <!---
 MSHANKAR028/MSHANKAR028 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
