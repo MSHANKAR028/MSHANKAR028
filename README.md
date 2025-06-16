@@ -1,6 +1,6 @@
 - 👋 Hi, everyone, my name is Mahima Shankar 
-- 👀 I’m interested in
-- Writing stories and programming in my spare time. 
+- 👀 A little about me: 
+- I love writing stories and programming small projects at my spare time. 
 - 🌱 I’m currently learning
 - Website development and growing my skills to become a better Software engineer.
 - 📫 How to reach me
