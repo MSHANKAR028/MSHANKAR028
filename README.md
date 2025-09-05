@@ -1,7 +1,7 @@
 - 👋 Hi, everyone, my name is Mahima Shankar 
 - 👀 A little about me: 
 - I love writing stories and programming small projects at my spare time. 
-- 🌱 I’m currently learning
+- 🌱 I’m currently learning:
   Growing my skills to become a better Software engineer.
 - 📫 How to reach me
 - My phone number: 925-260-9218
